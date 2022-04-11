@@ -1,10 +1,10 @@
-### Olá! Eu sou o Danilo
+### Hey! I am Danilo
 
 
 
-- 🎓 Hoje estudo para trabalhar como Back-end
-- 👨‍🎓 Estudando C / C#
-- 📫 Contate-me no email: devdanilo04@gmail.com
+- 🎓 Today I study for one day to work as a Back-end
+- 👨‍🎓 C / C# Student
+- 📫 Contact me by email: devdanilo04@gmail.com
 - 🙋‍♂️ Pronouns: ele/dele
 
 <div>
