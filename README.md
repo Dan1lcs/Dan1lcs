@@ -3,7 +3,7 @@
 
 
 - 🎓 Today I study for one day to work as a Back-end
-- 👨‍🎓 C / C# Student
+- 👨‍🎓 Language C Student
 - 📫 Contact me by email: devdanilo04@gmail.com
 - 🙋‍♂️ Pronouns: ele/dele
 
