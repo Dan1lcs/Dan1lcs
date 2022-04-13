@@ -5,12 +5,12 @@
 - 🎓 Today I study for one day to work as a Back-end
 - 👨‍🎓 Language C Student
 - 📫 Contact me by email: devdanilo04@gmail.com
-- 🙋‍♂️ Pronouns: ele/dele
+- 🙋‍♂️ Pronouns: him/his
 
 <div>
   <a href="https://github.com/Dan1lcs">
-  <img height="150%" src="https://github-readme-stats.vercel.app/api?username=Dan1lcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="163" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1lcs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dan1lcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1lcs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
