@@ -3,7 +3,7 @@
 
 
 - 🎓 Today I study for one day to work as a Back-end
-- 👨‍🎓 Language C Student
+- 👨‍🎓 Language C# Student
 - 📫 Contact me by email: devdanilo04@gmail.com
 - 🙋‍♂️ Pronouns: him/his
 
@@ -15,8 +15,8 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/958796602347229204/963129103777669190/frieza-freeza.gif">
 </div>
   
